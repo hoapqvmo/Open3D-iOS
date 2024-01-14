@@ -21,10 +21,10 @@
       },
       {
         "package": "NumPy-iOS",
-        "repositoryURL": "https://github.com/hoapqvmo/NumPy-iOS.git",
+        "repositoryURL": "https://github.com/kewlbear/NumPy-iOS.git",
         "state": {
-          "branch": "main",
-          "revision": "82a71e2a36b8536fec483c33e046e1ef5e59095a",
+          "branch": null,
+          "revision": "c27e79ea5485f5b727aaaf330635f7d423513100",
           "version": null
         }
       },
